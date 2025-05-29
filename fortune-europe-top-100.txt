@@ -1,0 +1,102 @@
+1. Volkswagen
+2. Shell
+3. TotalEnergies
+4. Glencore
+5. BP
+6. Stellantis
+7. BMW
+8. Mercedes-Benz Group
+9. Electricité de France
+10. Banco Santander
+11. BNP Paribas
+12. HSBC Holdings
+13. Deutsche Telekom
+14. Uniper
+15. Allianz
+16. Rosneft Oil
+17. Equinor
+18. Nestlé
+19. Enel
+20. ENI
+21. E.ON
+22. Gazprom
+23. Société Générale
+24. Bosch
+25. Royal Ahold Delhaize
+26. Crédit Agricole
+27. Christian Dior
+28. Carrefour
+29. REWE Group
+30. AXA
+31. Engie
+32. Orlen
+33. DHL Group
+34. Tesco
+35. Siemens
+36. Vinci
+37. Lukoil
+38. BASF
+39. Groupe BPCE
+40. UBS Group
+41. Airbus
+42. ArcelorMittal
+43. Koç Holding
+44. Roche Group
+45. Banco Bilbao Vizcaya Argentaria
+46. Lloyds Banking Group
+47. Deutsche Bank
+48. Accenture
+49. Unilever
+50. Barclays
+51. Munich Re Group
+52. Sberbank
+53. Zurich Insurance Group
+54. Bouygues
+55. Daimler Truck Holding
+56. ING Group
+57. Anheuser-Busch InBev
+58. Assicurazioni Generali
+59. Repsol
+60. Renault
+61. Edeka Zentrale
+62. Novartis
+63. Rio Tinto Group
+64. Iberdrola
+65. Deutsche Bahn
+66. Volvo
+67. Intesa Sanpaolo
+68. Saint-Gobain
+69. Bayer
+70. Maersk Group
+71. Phoenix Pharma
+72. Louis Dreyfus
+73. ZF Friedrichshafen
+74. Sanofi
+75. Swiss Re
+76. Chubb
+77. Veolia Environnement
+78. Vodafone Group
+79. Landesbank Baden-Württemberg
+80. EXOR Group
+81. Unédic
+82. UniCredit Group
+83. Energie Baden-Württemberg
+84. Orange
+85. Ingka Group
+86. Talanx
+87. AstraZeneca
+88. Crédit Mutuel Group
+89. SNCF Group
+90. Continental
+91. L'Oreal
+92. Telefónica
+93. OMV Group
+94. LyondellBasell Industries
+95. J. Sainsbury
+96. Lufthansa Group
+97. ThyssenKrupp
+98. Inditex
+99. Schneider Electric
+100. ACS
+
+Źródło: https://fortune.com/europe/ranking/fortune500-europe/
